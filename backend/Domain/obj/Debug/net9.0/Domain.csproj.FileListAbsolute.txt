@@ -1,0 +1,12 @@
+C:\Projetos\crud-layered\backend\Domain\bin\Debug\net9.0\Domain.deps.json
+C:\Projetos\crud-layered\backend\Domain\bin\Debug\net9.0\Domain.dll
+C:\Projetos\crud-layered\backend\Domain\bin\Debug\net9.0\Domain.pdb
+C:\Projetos\crud-layered\backend\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\crud-layered\backend\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+C:\Projetos\crud-layered\backend\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+C:\Projetos\crud-layered\backend\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\crud-layered\backend\Domain\obj\Debug\net9.0\Domain.sourcelink.json
+C:\Projetos\crud-layered\backend\Domain\obj\Debug\net9.0\Domain.dll
+C:\Projetos\crud-layered\backend\Domain\obj\Debug\net9.0\refint\Domain.dll
+C:\Projetos\crud-layered\backend\Domain\obj\Debug\net9.0\Domain.pdb
+C:\Projetos\crud-layered\backend\Domain\obj\Debug\net9.0\ref\Domain.dll
